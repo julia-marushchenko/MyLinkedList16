@@ -1,6 +1,7 @@
 /**
  *  Java program to remove element by index in LinkedList.
  */
+
 package com.mylists;
 
 import java.util.LinkedList;
